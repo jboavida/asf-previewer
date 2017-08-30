@@ -1,0 +1,16 @@
+{
+  "name": "angular-schema-form-previewer",
+  "version": "0.0.0",
+  "description": "Previewer add-on for Angular Schema Form. No batteries included: user provides previewer functions (e.g., for HTML, markdown, syntax highlighting, SVG, etc.).",
+  "keywords": [
+    "Angular Schema Form",
+    "form",
+    "JSON",
+    "JSON Schema",
+    "schema",
+    "preview",
+    "HTML"
+  ],
+  "author": "João Pedro Boavida",
+  "license": "MIT"
+}
