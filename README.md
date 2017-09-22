@@ -110,7 +110,7 @@ The add-on can be installed from [npm](https://www.npmjs.com/), with
 ```
 $ npm install angular-schema-form-previewer
 ```
-which also invokes `bower install` if available.
+after which `bower install` installs (Bower) dependencies.
 
 To work with the package as a stand-alone, clone the repository:
 ```
